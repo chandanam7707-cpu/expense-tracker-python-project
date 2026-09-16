@@ -1,6 +1,5 @@
-name,amount
-food,2000.0
-travel,4000.0
-travel,6000.0
-eletricity bill,2341.0
-electronics,10900.0
+name,category,amount,date
+lunch,food,150.0,16-09-2026
+bus,travel,50.0,16-09-2026
+shirt,travel,500.0,16-09-2026
+breakfast,food,100.0,16-09-2026
